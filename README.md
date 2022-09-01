@@ -10,7 +10,7 @@
 
 # Demo
 * Click on the below link to try the fruit interpreter application
-https://csb-oky2hb.netlify.app/
+https://csb-nrkuli.netlify.app/
 
 # Features
 * 12 emojis of fruits
